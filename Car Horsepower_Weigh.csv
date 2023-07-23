@@ -1,0 +1,169 @@
+Car Name,Horsepower,Weight
+Toyota RAV4 2021,203,3370
+Honda CR-V 2022,190,3307
+Ford Escape 2021,181,3552
+Chevrolet Equinox 2022,170,3274
+Nissan Rogue 2021,181,3459
+Jeep Wrangler 2022,285,3972
+Subaru Forester 2021,182,3440
+Mazda CX-5 2022,187,3541
+Hyundai Tucson 2021,187,3301
+Kia Sportage 2022,181,3305
+GMC Terrain 2021,170,3569
+BMW X3 2022,248,4112
+Mercedes-Benz GLC 2021,255,3891
+Audi Q5 2022,261,4057
+Lexus RX 2021,295,4387
+Volvo XC60 2022,250,4300
+Porsche Macan 2021,248,4112
+Land Rover Discovery Sport 2022,246,4079
+Jaguar F-Pace 2021,246,4035
+Cadillac XT5 2022,310,3985
+Infiniti QX50 2021,268,3893
+Acura RDX 2022,272,3821
+Lincoln Corsair 2021,250,3655
+Buick Envision 2022,228,3594
+Tesla Model Y 2021,384,4041
+Ford Explorer 2022,300,4479
+Chevrolet Tahoe 2021,355,5333
+GMC Yukon 2022,355,5562
+Dodge Durango 2021,293,4756
+Jeep Grand Cherokee 2022,293,4776
+Toyota 4Runner 2021,270,4810
+Nissan Pathfinder 2022,284,4469
+Subaru Outback 2021,182,3620
+Honda Passport 2022,280,4023
+Hyundai Santa Fe 2021,191,3591
+Kia Sorento 2022,191,3811
+Mitsubishi Outlander 2021,166,3307
+Mazda CX-9 2022,227,4307
+Volkswagen Atlas 2021,235,4222
+BMW X5 2022,335,4927
+Toyota Camry 2021,203,3241
+Honda Civic 2022,158,2862
+Ford Focus 2021,160,2980
+Chevrolet Malibu 2022,163,3132
+Nissan Sentra 2021,149,3036
+Hyundai Elantra 2022,147,2844
+Volkswagen Jetta 2021,147,2959
+Mazda3 2022,186,3087
+Kia Forte 2021,147,2844
+Subaru Impreza 2022,152,3071
+BMW 3 Series 2021,255,3571
+Mercedes-Benz C-Class 2022,255,3538
+Audi A4 2021,201,3616
+Lexus IS 2022,241,3594
+Volvo S60 2021,316,3913
+Porsche 911 2022,379,3395
+Land Rover Discovery 2021,254,4764
+Jaguar XE 2022,247,3594
+Cadillac CT5 2021,237,3660
+Infiniti Q50 2022,268,3600
+Acura TLX 2021,272,3803
+Lincoln MKZ 2022,245,3854
+Buick Regal 2021,250,3497
+Tesla Model 3 2022,283,3552
+Ford Fusion 2021,175,3472
+Chevrolet Impala 2022,197,3719
+GMC Acadia 2021,193,3956
+Dodge Charger 2022,292,3964
+Chrysler 300 2021,292,4018
+Toyota Corolla 2022,139,3060
+Nissan Altima 2021,188,3194
+Subaru Legacy 2022,182,3397
+Honda Accord 2021,192,3131
+Hyundai Sonata 2022,180,3144
+Kia Optima 2021,185,3220
+Mitsubishi Lancer 2022,148,2954
+Mazda6 2021,187,3449
+Volkswagen Passat 2022,174,3296
+Toyota Corolla 2021,139,3060
+Honda Civic 2021,158,2742
+Ford Fiesta 2022,120,2578
+Chevrolet Spark 2021,98,2295
+Nissan Versa 2022,122,2609
+Hyundai Accent 2021,120,2502
+Volkswagen Polo 2022,84,2403
+Mazda2 2021,103,2348
+Kia Rio 2022,120,2667
+Subaru Impreza 2021,152,3031
+Fiat 500 2022,101,2363
+Mini Cooper 2021,134,2657
+Smart Fortwo 2022,89,1864
+Honda Fit 2021,128,2522
+Toyota Yaris 2022,106,2375
+Chevrolet Sonic 2021,138,2811
+Nissan Sentra 2022,149,3036
+Hyundai Elantra 2021,147,2778
+Volkswagen Jetta 2022,147,2882
+Mazda3 2021,155,3087
+Kia Forte 2022,147,2844
+Ford Focus 2021,160,2976
+Mitsubishi Mirage 2022,78,2050
+Honda Insight 2021,151,2954
+Toyota Prius 2022,121,3086
+Nissan Leaf 2021,147,3641
+Hyundai Ioniq 2022,139,3075
+Chevrolet Bolt 2021,200,3563
+Kia Soul 2022,147,2884
+Subaru Crosstrek 2021,152,3157
+Bugatti Chiron,1500,4400
+Lamborghini Aventador SVJ,759,3362
+Ferrari LaFerrari,950,2800
+McLaren P1,903,3300
+Porsche 911 GT2 RS,700,3153
+Aston Martin Valkyrie,1160,2646
+Koenigsegg Jesko,1600,3000
+Pagani Huayra,764,2976
+Lamborghini Huracán Performante,640,3135
+Ferrari 488 Pista,711,3153
+McLaren 720S,710,2829
+Porsche 911 Turbo S,640,3594
+Aston Martin DBS Superleggera,715,3990
+Bugatti Veyron,1001,4162
+Lamborghini Aventador S,730,3550
+Ferrari F8 Tributo,710,2976
+McLaren 570S,562,3131
+Porsche 911 GT3,502,3153
+Aston Martin DB11,503,3968
+Koenigsegg Agera RS,1160,3075
+Pagani Zonda,760,2701
+Lamborghini Centenario,759,3307
+Ferrari SF90 Stradale,986,3527
+McLaren Senna,789,2690
+Porsche 918 Spyder,887,3750
+Aston Martin Vanquish,580,3968
+Bugatti Veyron Super Sport,1183,4387
+Lamborghini Aventador,691,3472
+Ferrari 812 Superfast,789,3593
+McLaren 675LT,666,2976
+Mercedes-Benz G-Class,416,5732
+Rolls-Royce Cullinan,563,6063
+Bentley Bentayga,542,5421
+Land Rover Range Rover,398,4803
+Cadillac Escalade,420,5576
+Lincoln Navigator,450,5714
+GMC Yukon XL,420,5562
+Ford Expedition,375,5370
+Chevrolet Suburban,355,5684
+Toyota Land Cruiser,381,5815
+Infiniti QX80,400,5599
+Nissan Armada,400,5576
+Lexus LX,383,6000
+Audi Q7,248,4696
+Volvo XC90,250,4519
+BMW X7,335,5379
+Mercedes-Benz GLS-Class,362,5379
+Porsche Cayenne,335,4927
+Jeep Grand Cherokee,293,4513
+Ford Explorer,300,4455
+Dodge Durango,293,5150
+Chevrolet Tahoe,355,5331
+GMC Yukon,355,5359
+Nissan Pathfinder,284,4443
+Toyota Sequoia,381,5935
+Volkswagen Atlas,235,3967
+Subaru Ascent,260,4430
+Kia Telluride,291,4288
+Hyundai Palisade,291,4230
+Buick Enclave,310,4359
